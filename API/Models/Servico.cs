@@ -11,5 +11,7 @@ namespace ServicosParaGatos.Models
         public string? Descricao { get; set; }
 
         public string? Localizacao { get; set; };
+
     }
+    
 }

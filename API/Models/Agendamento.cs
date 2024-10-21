@@ -15,5 +15,7 @@ namespace ServicosParaGatos.Models
         public int ServicoId { get; set; }
 
         public Servico? Servico { get; set; }
+
     }
+    
 }

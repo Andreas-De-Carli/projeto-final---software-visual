@@ -17,5 +17,7 @@ namespace ServicosParaGatos.Models
         public string? Comentario { get; set; }
 
         public int Nota { get; set; }
+        
     }
+
 }
